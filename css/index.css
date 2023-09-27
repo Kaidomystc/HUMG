@@ -136,3 +136,37 @@ footer .nav li a {
     margin-left: 5px;
     padding: 5px;
 }
+
+.content .content-img {
+    max-width: 420px;
+    max-height: 310px;
+}
+
+.content .left {
+    float: left;
+}
+
+.content .right {
+    float: right;
+}
+
+.content .right p {
+    font-size: 18px;
+    text-align: left;
+    /* word-wrap: inherit; */
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+.content ul li {
+    list-style: none;
+    display: inline;
+}
+
+.content .row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid black;
+}
